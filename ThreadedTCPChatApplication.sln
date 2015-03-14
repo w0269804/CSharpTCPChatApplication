@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadedTCPChatApplication", "ThreadedTCPChatApplication\ThreadedTCPChatApplication.csproj", "{45F7BA5E-1E09-4B76-BE77-985650790231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatLib", "ChatLib\ChatLib.csproj", "{D2B1CBEE-D4A5-4CBE-9661-972569225E0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerLib", "LoggerLib\LoggerLib.csproj", "{DBD6534A-D79B-4DF1-AA1F-4209C2CE31F0}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ghattjr.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ThreadedTCPChatApplication\\ThreadedTCPChatApplication.csproj
+		SccProjectName1 = ThreadedTCPChatApplication
+		SccLocalPath1 = ThreadedTCPChatApplication
+		SccProjectUniqueName2 = ChatLib\\ChatLib.csproj
+		SccProjectName2 = ChatLib
+		SccLocalPath2 = ChatLib
+		SccProjectUniqueName3 = LoggerLib\\LoggerLib.csproj
+		SccProjectName3 = LoggerLib
+		SccLocalPath3 = LoggerLib
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45F7BA5E-1E09-4B76-BE77-985650790231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F7BA5E-1E09-4B76-BE77-985650790231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F7BA5E-1E09-4B76-BE77-985650790231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F7BA5E-1E09-4B76-BE77-985650790231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B1CBEE-D4A5-4CBE-9661-972569225E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B1CBEE-D4A5-4CBE-9661-972569225E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B1CBEE-D4A5-4CBE-9661-972569225E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B1CBEE-D4A5-4CBE-9661-972569225E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBD6534A-D79B-4DF1-AA1F-4209C2CE31F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD6534A-D79B-4DF1-AA1F-4209C2CE31F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD6534A-D79B-4DF1-AA1F-4209C2CE31F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD6534A-D79B-4DF1-AA1F-4209C2CE31F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
